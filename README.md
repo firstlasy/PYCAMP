@@ -14,7 +14,7 @@ Bu repository, Python programlama diline yeni başlayanlar için hazırlanan kap
   - Bölüm sonu ödev çözümleri
 - **`temel_seviye_uygulamali_sorular.ipynb`**
   - Gerçek hayat senaryolarından oluşan 20 adet uygulamalı kodlama sorusu
-  - Liste, sözlük (dictionary), küme (set) ve string manipülasyonları üzerine pratik çözümler
+  - Liste, sözlük (dictionary), küme (set) ve string ifadeleri üzerine pratik çözümler
 
 ### 2. Döngüler ve Kontrol Yapıları
 
